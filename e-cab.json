@@ -1,0 +1,173 @@
+{
+    "member": {
+        "id": 2874,
+        "ec_metting_no": "2025-02-08",
+        "membership_no": "2846",
+        "member_category": null,
+        "company_name": "RPL TECHNOLOGY",
+        "country_id": 19,
+        "current_office_address": "Suite 5, Ground Floor,  AK Peach Tower 1/3, Rajdhani Housing, Bosila 40 Feet Road, 33 No Ward, Mohammadpur,  Dhaka .",
+        "current_office_postal_code": 1207,
+        "prev_membership_no": null,
+        "membership_type": null,
+        "short_profile": null,
+        "success_story": null,
+        "establishment_month": "January",
+        "establishment_year": "2025",
+        "address": null,
+        "district_id": "1",
+        "post_code": 1207,
+        "cell_phones": [
+            {
+                "cell_phone": "8801718371666"
+            }
+        ],
+        "work_phone": "+8801718371666",
+        "fax": null,
+        "emails": [
+            {
+                "email": [
+                    {
+                        "email": "cs@rpl.technology"
+                    }
+                ]
+            }
+        ],
+        "website": "http://www.rpl.technology",
+        "investment_type": "Local",
+        "other_website": null,
+        "office_inside": "/img/company_office_inside/1737029206WhatsApp Image 2025-01-16 at 17.18.04_782af44e.jpg",
+        "office_outside": "/img/company_office_outside/1737029207dc.jpg",
+        "product_image": "",
+        "product_image_1": null,
+        "product_image_2": null,
+        "owner_name": null,
+        "designation": null,
+        "rept_authorized_designation": null,
+        "rept_authorized_name": null,
+        "rept_authoriz_sign_date": null,
+        "statement": "/files/statement/6788f6562b29c__Screenshot 2025-01-16 170909.png",
+        "business_model": "",
+        "company_head_phone": null,
+        "legal_structure": "Proprietorship",
+        "office_address": "Suite 5, Ground Floor,  AK Peach Tower 1/3, Rajdhani Housing, Bosila 40 Feet Road, 33 No Ward, Mohammadpur,",
+        "other_org_membership": null,
+        "international_presence_countries": null,
+        "company_logo": "/img/company_logo/1737021321Untitled design.png",
+        "profile": null,
+        "owners_info": null,
+        "business_type": null,
+        "bin_number": null,
+        "tin_number": "844961797687",
+        "business_identification_number": null,
+        "trade_license_authority": "DNCC",
+        "tin_certificate": "/files/tin_certificate/6788d788f17ba__MehediHasanRajib_TIN.pdf",
+        "certificate_incorporation": null,
+        "certificate_incorpo_file": null,
+        "trade_license_no": "TRAD/DNCC/030113/2024",
+        "trade_license": "/files/trade_license/6788d788f086a__TRADE LICENSE.pdf",
+        "trade_license_valid_date": "2025-06-30",
+        "vat_certificate": "",
+        "board_regulations": "",
+        "partnership_memorandum": "",
+        "website_terms_conditions": "/files/website_terms_conditions/6788f65629db6__Screenshot 2025-01-16 170421.png",
+        "utility_bills": "/files/utility_bills/6788f6562ab45__WhatsApp Image 2025-01-16 at 16.38.18_07c2f773.jpg",
+        "website_screen_short": "/files/website_screen_short/6788f6562b79d__Screenshot 2025-01-16 163332.png",
+        "partner": null,
+        "women_shareholder": null,
+        "shareholders": [[]],
+        "directors": [[]],
+        "memo_article": null,
+        "status": 1,
+        "reason": null,
+        "meeting_minutes": null,
+        "deactive_date": null,
+        "approved_date": "2025-02-08",
+        "ntf2": 0,
+        "vertical_exp_total_installation": 1,
+        "reset_password": 1,
+        "alt_reset_password": 0,
+        "cover_photo": null,
+        "fb_url": "https://www.facebook.com/rpl.technology",
+        "tw_url": null,
+        "yt_url": null,
+        "le_url": null,
+        "map_url": null,
+        "valid_till": "2025-12-31",
+        "change_pass": 1,
+        "created_at": "2025-02-09T09:54:11.000000Z",
+        "updated_at": "2025-02-09T15:03:05.000000Z",
+        "service_overview": "- IT Products & Services",
+        "show_information_website": null,
+        "agree": "true",
+        "drug_licence": "",
+        "tax_return": "/files/tax_return/6788d788f1b30__TAX RETURN.jpg",
+        "irc_licence": "",
+        "bsti_licence": "",
+        "gpo_licence": "",
+        "document": "/files/document/6788f6562af99__CP RPL.pdf",
+        "annual_mail": 0,
+        "sync": 0,
+        "member_update": 0,
+        "business_activity": [
+            {
+                "activity_id": 11366,
+                "activity": "Computer Hardware and Accessories"
+            },
+            {
+                "activity_id": 11367,
+                "activity": "Facebook Commerce (f-Commerce)"
+            },
+            {
+                "activity_id": 11368,
+                "activity": "IT/TES"
+            },
+            {
+                "activity_id": 11369,
+                "activity": "Online retail shop"
+            },
+            {
+                "activity_id": 11370,
+                "activity": "e-Service"
+            },
+            {
+                "activity_id": 11371,
+                "activity": "Website Based Business"
+            },
+            {
+                "activity_id": 11372,
+                "activity": "e-Shop"
+            }
+        ],
+        "FullUrl": "https://e-cab.net/",
+        "check": false,
+        "representatives_primary": {
+            "id": 4667,
+            "name": "MEHEDI HASAN RAJIB",
+            "mobile": "01718371666",
+            "member_id": 2874,
+            "image": "/img/rep_image/1737029206IMG_2635 copy.JPG",
+            "email": "cs@rpl.technology",
+            "designation": "Proprietor"
+        },
+        "owner_info": [
+            {
+                "id": 3165,
+                "owner_name": "MEHEDI HASAN RAJIB",
+                "mobile": "01718371666",
+                "member_id": 2874,
+                "owner_photo": "/img/owner_photo/1737021133IMG_2635 copy.JPG",
+                "email": "cs@rpl.technology",
+                "designation": "Proprietor / CEO"
+            }
+        ],
+        "paid_annual": {
+            "member_id": 2874,
+            "payment_date": "2025-02-07",
+            "status": "success"
+        }
+    },
+    "expYear": 0,
+    "valid_till": "2025-12-31",
+    "valid_till_class": "text-success"
+}
