@@ -73,7 +73,7 @@ def process_member_data(member, detailed_profile=None):
         "Membership Type": clean_text_for_excel(member.get("membership_type", "N/A")),
         "Member Category": clean_text_for_excel(member.get("member_category", "N/A")),
         "Establishment": f"{member.get('establishment_month', 'N/A')} {member.get('establishment_year', 'N/A')}",
-        "Website URL": clean_text_for_excel(member.get("FullUrl", "N/A"))
+        # "Website URL": clean_text_for_excel(member.get("FullUrl", "N/A"))
     }
 
     if detailed_profile and 'member' in detailed_profile:
@@ -87,7 +87,7 @@ def process_member_data(member, detailed_profile=None):
                 if isinstance(profile.get("emails", []), list) and profile.get("emails", [])
                 else [{}]
             )[0].get("email", "N/A"),
-            # "Website": clean_text_for_excel(profile.get("website", "N/A")),
+            "Website": clean_text_for_excel(profile.get("website", "N/A")),
             "Legal Structure": clean_text_for_excel(profile.get("legal_structure", "N/A")),
             "TIN Number": clean_text_for_excel(profile.get("tin_number", "N/A")),
             "Trade License No": clean_text_for_excel(profile.get("trade_license_no", "N/A")),
